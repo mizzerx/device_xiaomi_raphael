@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "pixel-devices",
+    "repository": "kernel_xiaomi_raphael",
+    "target_path": "kernel/xiaomi/raphael",
+    "branch": "twelve"
+  },
+  {
+    "remote": "github",
+    "repository": "Jorg3Lucas/android_vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael",
+    "branch": "arrow-12.1"
+  },
+  {
+    "remote": "pixel",
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "twelve"
+  }
+]
