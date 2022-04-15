@@ -6,10 +6,10 @@
     "branch": "twelve"
   },
   {
-    "remote": "github",
-    "repository": "Jorg3Lucas/android_vendor_xiaomi_raphael",
+    "remote": "pixel-devices-blobs",
+    "repository": "vendor_xiaomi_raphael",
     "target_path": "vendor/xiaomi/raphael",
-    "branch": "arrow-12.1"
+    "branch": "twelve"
   },
   {
     "remote": "pixel",
